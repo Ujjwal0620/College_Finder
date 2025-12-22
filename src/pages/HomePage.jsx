@@ -1,5 +1,5 @@
 import React from 'react'
-import Slider from '../components/homeComponents/slider'
+import Slider from '../components/homeComponents/Slider'
 import MarketingDetails from '../components/homeComponents/MarketingDetails'
 import HallMarks from '../components/homeComponents/HallMarks'
 import CollegeList from '../components/homeComponents/CollegeList'
