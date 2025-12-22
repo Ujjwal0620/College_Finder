@@ -1,5 +1,5 @@
 import React from 'react'
-import Slider from '../components/homeComponents/Slider'
+import Carousel from '../components/homeComponents/Carousel'
 import MarketingDetails from '../components/homeComponents/MarketingDetails'
 import HallMarks from '../components/homeComponents/HallMarks'
 import CollegeList from '../components/homeComponents/CollegeList'
@@ -7,7 +7,7 @@ import Programs from '../components/homeComponents/programs'
 const HomePage = () => {
   return (
     <div>
-      <Slider/>
+      <Carousel/>
       <MarketingDetails/>
       <Programs/>
       <HallMarks/>

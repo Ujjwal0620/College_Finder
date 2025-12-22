@@ -1,6 +1,6 @@
 import React from "react";
 
-const slider = () => {
+const Carousel = () => {
   return (
     <div>
       <div className="carousel w-full">
@@ -40,4 +40,4 @@ const slider = () => {
   );
 };
 
-export default slider;
+export default Carousel;
