@@ -146,7 +146,7 @@ const Programs = () => {
                   {item.title}
                 </h3>
 
-                <button className="mt-auto bg-blue-600 hover:bg-blue-700 text-white text-sm rounded-lg py-2 mt-4">
+                <button className=" bg-blue-600 hover:bg-blue-700 text-white text-sm rounded-lg py-2 mt-4">
                   Compare {item.count} Now
                 </button>
               </div>

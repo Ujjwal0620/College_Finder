@@ -2,11 +2,11 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="px-4 sm:px-6 lg:px-24 py-10">
+    <section className="px-4 sm:px-6 lg:px-24 py-4">
       <div className="bg-white rounded-xl shadow-xl overflow-hidden">
         <div className="grid grid-cols-1 lg:grid-cols-2 items-stretch">
 
-          {/* LEFT CONTENT */}
+          
           <div className="p-6 sm:p-10 lg:p-14">
             <h1 className="text-2xl sm:text-3xl text-black lg:text-5xl font-bold leading-tight">
               <span className="text-blue-600">Compare Online Courses</span>{" "}
@@ -45,7 +45,7 @@ const Hero = () => {
               the odds, enhancing your journey by 3x.
             </p>
 
-            {/* Features */}
+            
             <ul className="mt-6 text-black space-y-3 text-sm sm:text-base">
               {[
                 "Flexible timelines at your pace",
@@ -70,7 +70,7 @@ const Hero = () => {
 
           {/* RIGHT IMAGES */}
           <div className="relative bg-gray-100 flex items-center justify-center p-6 lg:p-0">
-            <div className="relative w-full max-w-md lg:max-w-none h-[400px] sm:h-[450px] lg:h-full">
+            <div className="relative w-full max-w-md lg:max-w-none h-100 sm:h-112.5 lg:h-full">
 
               {/* Left Image */}
               <img
