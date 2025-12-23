@@ -1,5 +1,5 @@
 import React from 'react'
-import Carousel from '../components/homeComponents/carousel'
+import Carousel from '../components/homeComponents/Carousel'
 import MarketingDetails from '../components/homeComponents/MarketingDetails'
 import HallMarks from '../components/homeComponents/HallMarks'
 import CollegeList from '../components/homeComponents/CollegeList'
